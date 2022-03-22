@@ -1,3 +1,5 @@
+> Forked [vim-markdown](https://github.com/preservim/vim-markdown) to use just markdown functions and commands.
+
 # Vim Markdown
 
 [![Vint](https://github.com/preservim/vim-markdown/workflows/Vint/badge.svg)](https://github.com/preservim/vim-markdown/actions?workflow=Vint)
